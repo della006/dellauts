@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214127399420",
+    "project_id": "data-teman-7a16a",
+    "storage_bucket": "data-teman-7a16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214127399420:android:bc71415a2d35fcf958e279",
+        "android_client_info": {
+          "package_name": "com.example.daftarteman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214127399420-070l1cu92acpvsujfqslr4uim20fl20n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEXI14Ggfy5ONBGY0PEvtDUWzi-N8SziQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214127399420-04hvm6nl5apk9jucf30acube0chvahgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
